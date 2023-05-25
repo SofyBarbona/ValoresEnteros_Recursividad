@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670014178 source:c:\users\sofibarbona\desktop\practica parcial\recursividadagain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
